@@ -6,4 +6,6 @@
 
 # 注意事项
 运行测试脚本过程中请注意：
-1. 可以先运行```mocha test/saz.unzip.spec.js```解压saz文件到fiddler目录中,
+1. 可以先运行```mocha test/saz.unzip.spec.js```解压saz文件到fiddler目录中;
+2. 可以直接运行``` npm test```，得到下述测试结果：
+<img src="report.png" alt="测试报告" width="400">
