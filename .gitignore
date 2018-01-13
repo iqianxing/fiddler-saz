@@ -37,9 +37,9 @@ jspm_packages
 .node_repl_history
 
 # project
-./mochawesome-report
-./node_modules/
-.vscode/
-./fiddler/raw/
-./fiddler/[Content_Types].xml
+mochawesome-report/
+node_modules/
+.vscode/*
+fiddler/raw/*
+fiddler/*.xml
 *.saz
